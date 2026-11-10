@@ -1,0 +1,11 @@
+Contacts: user@example.com and firstname.lastname@company.co.uk.
+Resources: https://www.example.com and https://subdomain.example.org/page.
+Call (123) 456-7890, 123-456-7890, or 123.456.7890.
+Card format examples: 1234 5678 9012 3456 or 1234-5678-9012-3456.
+Meet at 14:30 or 2:30 PM.
+Markup: <p> <div class="example"> <img src="image.jpg" alt="description">
+Topics: #example and #ThisIsAHashtag.
+Prices: $19.99 and $1,234.56.
+
+Malformed examples: broken..name@example.com, https://example, (123 456-7890,
+1234-5678 9012-3456, 24:00, <img src=>, ##duplicate, and $12,34.56.
